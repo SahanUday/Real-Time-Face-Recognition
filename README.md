@@ -97,8 +97,8 @@ The program detects and labels faces in real-time with confidence percentages:
 ### Example Output
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="images/1.1.jpg" alt="1.1" width="400"/>
-  <img src="images/2.1.jpg" alt="2.1" width="400"/>
+  <img src="results/1.1.jpg" alt="1.1" width="400"/>
+  <img src="results/2.1.jpg" alt="2.1" width="400"/>
 </div>
 
 ---
