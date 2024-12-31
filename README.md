@@ -96,7 +96,7 @@ The program detects and labels faces in real-time with confidence percentages:
 
 ### Example Output
 
-![Example Output](results/1.1.jpg)
+![Example Output](results/1.1.jpg)    ![Example Output](results/2.1.jpg)
 
 ---
 
