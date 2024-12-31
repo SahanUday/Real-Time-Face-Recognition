@@ -100,6 +100,10 @@ The program detects and labels faces in real-time with confidence percentages:
   <img src="results/1.1.jpg" alt="1.1" width="400"/>
   <img src="results/2.1.jpg" alt="2.1" width="400"/>
 </div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="results/3.jpg" alt="3" width="400"/>
+  <img src="results/4.jpg" alt="4" width="400"/>
+</div>
 
 ---
 
