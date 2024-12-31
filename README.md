@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a real-time face recognition system that uses Python, OpenCV, and the `face_recognition` library to detect, identify, and label faces from a live webcam feed or image files. It supports switching between multiple cameras and provides confidence scores for the matches.
+This project is a real-time face recognition system that uses Python, OpenCV, and the `face_recognition` library to detect, identify, and label faces from a live webcam feed . It supports switching between multiple cameras and provides confidence scores for the matches.
 
 ---
 
